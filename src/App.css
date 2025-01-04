@@ -1,0 +1,12 @@
+li{
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+.header{
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: flex-start;
+}
